@@ -16,6 +16,7 @@ body {
 	background: #ffffff;
 	border-color: #cccccc;
 	float: left;
+	z-index: 100
 }
 	
 
